@@ -4,6 +4,8 @@ Please check out the book at the following website:
 https://asaxiy.uz/product/knigi/skomolovshrahmatov-sunii-intellekt-asoslari-mashinavii-%D1%9Ekitish?language=ru
 
 #######################
+
+
 Ushbu repository Sirojiddin Komolov (men) va qadrli ustozim Sherzod Raxmatov tomonidan yozilgan "Sun'iy intellekt asoslari" kitobining amaliy mashg'ulot materiallarini o'zida jamlaydi.
 Iltimos, kitobni quyidagi veb-saytda tekshiring:
 
